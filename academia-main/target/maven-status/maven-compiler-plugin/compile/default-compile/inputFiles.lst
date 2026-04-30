@@ -1,0 +1,17 @@
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\AcademiaApplication.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\config\AcademiaConfig.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\request\CreateAlunoRequest.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\request\CreatePlanoRequest.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\request\UpdateAlunoRequest.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\request\UpdatePlanoRequest.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\response\AlunoResponse.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\dto\response\PlanoResponse.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\exception\BusinessException.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\exception\ResourceNotFoundException.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\model\Aluno.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\model\Plano.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\model\SituacaoAluno.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\repository\AlunoRepository.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\repository\PlanoRepository.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\service\AlunoService.java
+C:\Users\aluno\Desktop\Nova pasta\academia-main2\academia-main\src\main\java\com\facens\academia\service\PlanoService.java
